@@ -398,3 +398,8 @@ padding: 20px 20px;
 .medias{
     margin-left:30px ;
 }
+@media screen and (max-width:765px) {
+    header, footer, main, .formes, section{
+        overflow: scroll;
+    }
+}
