@@ -14,8 +14,8 @@ header{
     background-size: cover;
     height: 650px;
     width: 100%;
-    /* outline: 1px solid red; */
     overflow: hidden;
+    min-width: 540px;
 }
 .contakts ul{
     list-style: none;
@@ -93,6 +93,7 @@ section{
     height: 800px;
     overflow: hidden;
     width: 100%;
+    min-width: 540px;
 }
 .content{
     margin: 100px 200px;
@@ -132,6 +133,7 @@ main{
     background-color: #E6E3C4;
     height: 1050px;
     overflow: hidden;
+    min-width: 540px;
 }
 .main_wrapper{
 margin: 80px 200px;
@@ -220,6 +222,7 @@ padding: 30px;
     height: 800px;
     overflow: hidden;
     width: 100%;  
+    min-width: 540px;
 }
 .formes_wrapper{
     margin: 100px 200px;
@@ -341,6 +344,7 @@ footer{
     height: 220px;
     overflow: hidden;
     width: 100%; 
+    min-width: 540px;
 }
 .footer_wrapper{
     margin: 50px 200px;
